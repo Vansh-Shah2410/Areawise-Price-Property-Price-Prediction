@@ -1,4 +1,4 @@
-# Areawise-Price-Property-Price-Prediction
+# Areawise-Property-Price-Prediction
 **Overview**
 -
 This project aims to predict property prices based on the area using a simple linear regression model. The dataset includes information about various areas and their respective property prices. The objective is to understand the correlation between area and price, and to develop a predictive model for property prices.
